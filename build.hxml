@@ -1,10 +1,5 @@
--cp src
--lib mcli
--main hvm.Main
--neko hvm.n
+--interp
+-lib sys-utils
+util.sys.FsUtil
+util.sys.ProcessUtil
 
---next 
-
--cp src
--main hvm.HaxelibTool
--neko run.n

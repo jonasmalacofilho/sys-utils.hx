@@ -1,12 +1,12 @@
 {
-	"name": "hvm",
+	"name": "sys-utils",
 	"license": "Public",
-	"tags": ["tool","haxe","version-manager"],
-	"description": "HVM - a tool for compiling and switching between different Haxe versions with ease.",
-	"contributors": ["jason"],
-	"releasenote": "Slightly improved documentation.",
-	"version": "0.0.2",
-	"url": "https://github.com/jasononeil/hvm",
+	"tags": ["tool"],
+	"description": "Commonly required utility functions for 'sys' targets",
+	"contributors": ["jason", "jonasmalacofilho"],
+	"releasenote": "Repackaged from HVM",
+	"version": "0.0.1",
+	"url": "https://github.com/jonasmalacofilho/sys-utils.hx",
 	"classPath": "src/",
 	"dependencies": {}
 }
